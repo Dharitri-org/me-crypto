@@ -6,10 +6,10 @@ replace github.com/gogo/protobuf => github.com/Dharitri-org/protobuf v1.3.2
 
 require (
 	github.com/Dharitri-org/me-core v0.0.2
-	github.com/Dharitri-org/me-logger v0.0.3
+	github.com/Dharitri-org/me-logger v0.0.5
 	github.com/herumi/bls-go-binary v1.28.2
 	github.com/stretchr/testify v1.8.1
-	golang.org/x/crypto v0.5.0
+	golang.org/x/crypto v0.2.0
 )
 
 require (
@@ -20,7 +20,7 @@ require (
 	github.com/mr-tron/base58 v1.2.0 // indirect
 	github.com/pelletier/go-toml v1.9.5 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
-	golang.org/x/sys v0.4.0 // indirect
+	golang.org/x/sys v0.2.0 // indirect
 	google.golang.org/protobuf v1.26.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
