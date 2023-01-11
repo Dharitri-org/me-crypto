@@ -6,7 +6,7 @@ replace github.com/gogo/protobuf => github.com/Dharitri-org/protobuf v1.3.2
 
 require (
 	github.com/Dharitri-org/me-core v0.0.2
-	github.com/Dharitri-org/me-logger v0.0.7
+	github.com/Dharitri-org/me-logger v0.0.3
 	github.com/herumi/bls-go-binary v1.28.2
 	github.com/stretchr/testify v1.8.1
 	golang.org/x/crypto v0.5.0

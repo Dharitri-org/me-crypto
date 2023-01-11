@@ -1,7 +1,7 @@
 github.com/Dharitri-org/me-core v0.0.2 h1:wmZ7lPjY8c5A/nDH/KD6S4kg5S6FPENPSbRcoTfP4jU=
 github.com/Dharitri-org/me-core v0.0.2/go.mod h1:e32PTPaBzp/zYGJFkZfxzu5z1eGAjjUeF1eHv9IfEyU=
-github.com/Dharitri-org/me-logger v0.0.7 h1:8h3keAA1pImBkFBuKvLErYhq6tJhdGPaXmOja4He5xI=
-github.com/Dharitri-org/me-logger v0.0.7/go.mod h1:tcofW4V6V8KMdyR5pzhwsmykjgSNlqcuj5MxCwbSauk=
+github.com/Dharitri-org/me-logger v0.0.3 h1:/UO/DnxOsl7QCewHXAED7QbyVyhebIrQZ8dldxKHqJg=
+github.com/Dharitri-org/me-logger v0.0.3/go.mod h1:Y+hoNhihpFqL1emj/yUgxANRqLGcojL4x9vlEx0ArIQ=
 github.com/Dharitri-org/protobuf v1.3.2 h1:G3mbGffEoUVcSnMRYeC1kyZI3+VUvEB4fOcLKYe98/o=
 github.com/Dharitri-org/protobuf v1.3.2/go.mod h1:P1XiOD3dCwIKUDQYPy72D8LYyHL2YPYrpS2s69NZV8Q=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
